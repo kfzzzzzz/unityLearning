@@ -1,0 +1,4 @@
+repository "unityLearning@wechat_os_qy02n-sqkyb3mmwhvv0prby0y@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
