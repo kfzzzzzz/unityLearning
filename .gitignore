@@ -76,3 +76,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+unityLearning/Assets/PlayMaker/
+unityLearning/Library/PackageCache/@0bb5f72a60/QFramework.NetworkExtension/Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/OpusApplicationType.cs.meta
+unityLearning/Assets/QFramework/Toolkits/_CoreKit/ScriptKit/MoonSharp/Interpreter/DataTypes/Closure.cs
+unityLearning/Assets/QFramework/
+unityLearning/Library/
